@@ -1,0 +1,8 @@
+h1.name {
+    text-align: center;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+}
