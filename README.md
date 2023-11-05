@@ -1,3 +1,3 @@
-# alexkxo.github.io
+# alexkao.github.io
 
 Alex Kao
